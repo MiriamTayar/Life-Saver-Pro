@@ -1,0 +1,26 @@
+
+.header{
+    width: 100%;
+    height: 15%;
+    top: 0;
+    /* background-color: rgb(186, 236, 208); */
+    
+}
+.header img{
+    width: 60%;
+    height: 50%;
+    margin: 60px auto; /* מרווח מימין ומשמאל */
+
+}
+/* .header::after {
+    content: "A smart system that helps locate and save people from drowning, our project offers an innovative system that makes it possible to swim a pool experience in complete calm and safety. Our basic goal is to develop a smart pool, which will provide enjoyable and safe swimming. Our pool is equipped with advanced cameras, which detect a case of drowning or pre-drowning, in such a situation, the alarm system works, and the pool floor rises automatically. Beyond that, the area where the drowning person is found will be clearly marked to allow access to the dangerous area as quickly as possible. It is important to note that the activation of the alarm system and its conduct is done according to the distribution of people in the pool and according to precise calculations, in order to prevent unnecessary alarms in the background.";
+    display: block;
+font-family: 'Montserrat', 'Nunito';   
+ text-align:unset; 
+    margin: 30px auto; 
+    width: 50%;
+  height: 570px;
+  color: #357470;
+  font-size: 2vw;
+  font-style: italic;
+} */

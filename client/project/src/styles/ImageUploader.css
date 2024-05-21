@@ -1,0 +1,17 @@
+.u{
+     background-color: #2feac1; /* רקע ירוק */
+  border: none; /* ללא מסגרת */
+  color: white; /* צבע טקסט לבן */
+  padding: 300px 65px; /* רווח בין הטקסט למסגרת */
+  text-align: center; /* מרכז את הטקסט בתוך הכפתור */
+  text-decoration: none; /* ללא קו תחתון */
+  display: inline-block; /* תצוגה כבלוק רגיל */
+  font-size: 25px; /* גודל הטקסט */
+  margin: 4px 2px; /* רווח מסביב לכפתור */
+  cursor: pointer; /* סמן מקרה */
+  border-radius: 80px; /* ריסוף פינות */
+  transition-duration: 0.4s; /* עיצוב מתמד */
+}
+.u:hover {
+     background-color: #38a7c0; /* רקע ירוק כהה בעט */
+   }
